@@ -1,3 +1,3 @@
-# sostavlenie_pretenzii
+# sostav
 Hallo
 Try to do smth
